@@ -29,5 +29,5 @@ A web app that you can generate a random password!
 4. Start the web app
 
    ```bash
-   $ npm run start
+   $ npm run dev
    ```
