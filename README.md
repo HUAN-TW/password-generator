@@ -11,7 +11,7 @@ A web app that you can generate a random password!
 1. Clone the repo
 
    ```bash
-   https://github.com/HUAN-TW/password-generator.git
+   $git clone https://github.com/HUAN-TW/password-generator.git
    ```
 
 2. Go to the project directory
